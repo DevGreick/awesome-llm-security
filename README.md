@@ -114,6 +114,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
+| [APort Agent Guardrails](https://aport.io) | Pre-action authorization guardrails for AI agents and MCP/tool-use workflows. | Runtime authorization guardrails | Runtime authorization guardrails | https://aport.io |
 | [LLM Guard](https://protectai.com/llm-guard) | 35 scanners for prompt injection, PII, toxicity, and secrets | 🟢 | 🆓 | [GitHub](https://github.com/protectai/llm-guard) |
 | [Rebuff](https://github.com/protectai/rebuff) | Self-hardening prompt injection detector with canary tokens | 🟡 | 🆓 | [GitHub](https://github.com/protectai/rebuff) |
 | [TrustGate](https://github.com/trustgate-ai/trustgate) | Generative Application Firewall (GAF) for GenAI apps | 🟡 | 🆓 | [GitHub](https://github.com/trustgate-ai/trustgate) |
