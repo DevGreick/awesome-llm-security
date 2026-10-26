@@ -154,6 +154,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 | [MCP Guardian](https://github.com/eqtylab/mcp-guardian) | Access control and activity monitoring for MCP servers | 🟡 | 🆓 | [GitHub](https://github.com/eqtylab/mcp-guardian) |
 | [MCP Security Checklist](https://github.com/slowmist/MCP-Security-Checklist) | SlowMist's comprehensive checklist for MCP ecosystem | 🟢 | 🆓 | [GitHub](https://github.com/slowmist/MCP-Security-Checklist) |
 | [Secure MCP Gateway](https://github.com/enkryptai/secure-mcp-gateway) | Security wrapper with auth and guardrail enforcement for MCP | 🟡 | 🆓 | [GitHub](https://github.com/enkryptai/secure-mcp-gateway) |
+| [Speakeasy control plane](https://github.com/speakeasy-api/gram) | MCP gateway with identity-based tool permissions, per-action policies, and audit logs | 🟡 | 🆓 | [GitHub](https://github.com/speakeasy-api/gram) |
 
 ### Sandboxing & Isolation
 
