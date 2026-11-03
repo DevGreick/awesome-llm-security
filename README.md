@@ -146,15 +146,18 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 |------|-------------|----------|---------|------|
 | [Aegis](https://github.com/sahil-sagwekar2652/aegis) | Open source EDR for AI agents: process, file, network monitoring | 🟡⭐ | 🆓 | [GitHub](https://github.com/sahil-sagwekar2652/aegis) |
 | [Agentic Radar](https://github.com/splx-ai/agentic-radar) | CLI security scanner for agentic AI workflows | 🟡 | 🆓 | [GitHub](https://github.com/splx-ai/agentic-radar) |
+| [Ironheights](https://www.ironheights.dev/) | Local pre-install scanner for agent skills: prompt injection, hidden text, credential reads, persistence | 🟡 | 🆓 | [GitHub](https://github.com/Frank-Masciopinto/ironheights) |
 
 ### MCP Security
 
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
+| [mcp-gatehouse](https://nickgeorgeai.com/open-source/mcp-gatehouse) | Permission tiers, approval gates and redacting audit log enforced inside Python MCP servers | 🟡 | 🆓 | [GitHub](https://github.com/nickgeorgeseo/mcp-gatehouse) |
 | [MCP Guardian](https://github.com/eqtylab/mcp-guardian) | Access control and activity monitoring for MCP servers | 🟡 | 🆓 | [GitHub](https://github.com/eqtylab/mcp-guardian) |
 | [MCP Security Checklist](https://github.com/slowmist/MCP-Security-Checklist) | SlowMist's comprehensive checklist for MCP ecosystem | 🟢 | 🆓 | [GitHub](https://github.com/slowmist/MCP-Security-Checklist) |
 | [Secure MCP Gateway](https://github.com/enkryptai/secure-mcp-gateway) | Security wrapper with auth and guardrail enforcement for MCP | 🟡 | 🆓 | [GitHub](https://github.com/enkryptai/secure-mcp-gateway) |
 | [VITNA](https://github.com/COSTRINITY/vitna-compliance-mcp) | Containment for rogue AI agents: wraps stdio MCP servers so risky tool calls wait for a person; no answer, no run | 🟡 | 💎 | [GitHub](https://github.com/COSTRINITY/vitna-compliance-mcp) |
+| [Vouchity](https://www.vouchity.com) | Trust Score of 0 to 100 for MCP servers, built from public GitHub and npm data. Agents can check it before installing. | 🟡 | 💎 | [Website](https://www.vouchity.com) |
 
 ### Sandboxing & Isolation
 
