@@ -151,6 +151,7 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
+| [mcp-gatehouse](https://nickgeorgeai.com/open-source/mcp-gatehouse) | Permission tiers, approval gates and redacting audit log enforced inside Python MCP servers | 🟡 | 🆓 | [GitHub](https://github.com/nickgeorgeseo/mcp-gatehouse) |
 | [MCP Guardian](https://github.com/eqtylab/mcp-guardian) | Access control and activity monitoring for MCP servers | 🟡 | 🆓 | [GitHub](https://github.com/eqtylab/mcp-guardian) |
 | [MCP Security Checklist](https://github.com/slowmist/MCP-Security-Checklist) | SlowMist's comprehensive checklist for MCP ecosystem | 🟢 | 🆓 | [GitHub](https://github.com/slowmist/MCP-Security-Checklist) |
 | [Secure MCP Gateway](https://github.com/enkryptai/secure-mcp-gateway) | Security wrapper with auth and guardrail enforcement for MCP | 🟡 | 🆓 | [GitHub](https://github.com/enkryptai/secure-mcp-gateway) |
