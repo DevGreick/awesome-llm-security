@@ -17,7 +17,9 @@ Curated by [DevGreick](https://github.com/DevGreick)
 
 ## Why This List?
 
-LLM security is moving fast — new tools, attack vectors, and frameworks appear every week. This list is **practitioner-first**, organized by what you're trying to do, with pricing, maturity badges, opinionated stacks, and getting-started paths. Every entry is something you can install and run today.
+LLM security is moving fast, new tools, attack vectors, and frameworks appear every week. This list is **practitioner-first**, organized by what you're trying to do, with pricing, maturity badges, opinionated stacks, and getting-started paths. Every entry is something you can install and run today.
+
+Looking for research papers and academic resources? See [corca-ai/awesome-llm-security](https://github.com/corca-ai/awesome-llm-security). This list focuses on tools you can deploy.
 
 
 ## Contents
@@ -56,9 +58,9 @@ LLM security is moving fast — new tools, attack vectors, and frameworks appear
 >
 > | Badge | Meaning |
 > |-------|---------|
-> | 🟢 | Production-ready / Mature |
-> | 🟡 | Beta / Active development |
-> | 🔴 | Alpha / Experimental |
+> | 🟢 | Production-ready: stable releases (1.0+ or equivalent), active maintenance, real-world adoption |
+> | 🟡 | Beta: pre-1.0 or fast-changing API, actively maintained |
+> | 🔴 | Alpha / Experimental: early stage, few releases, or core features untested |
 > | ⭐ | Tested by [DevGreick](https://github.com/DevGreick) |
 > | 🆓 | Free / Open Source |
 > | 💎 | Freemium (free tier + paid features) |
