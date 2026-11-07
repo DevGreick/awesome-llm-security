@@ -35,6 +35,7 @@ Looking for research papers and academic resources? See [corca-ai/awesome-llm-se
   - [PII & Data Leakage Prevention](#pii--data-leakage-prevention)
 - [Agent & MCP Security](#agent--mcp-security)
   - [Agent Scanners](#agent-scanners)
+  - [Agent Runtime Controls](#agent-runtime-controls)
   - [MCP Security](#mcp-security)
   - [Sandboxing & Isolation](#sandboxing--isolation)
 - [Model Security](#model-security)
@@ -149,6 +150,12 @@ Looking for research papers and academic resources? See [corca-ai/awesome-llm-se
 | [Aegis](https://github.com/sahil-sagwekar2652/aegis) | Open source EDR for AI agents: process, file, network monitoring | 🟡⭐ | 🆓 | [GitHub](https://github.com/sahil-sagwekar2652/aegis) |
 | [Agentic Radar](https://github.com/splx-ai/agentic-radar) | CLI security scanner for agentic AI workflows | 🟡 | 🆓 | [GitHub](https://github.com/splx-ai/agentic-radar) |
 | [Ironheights](https://www.ironheights.dev/) | Local pre-install scanner for agent skills: prompt injection, hidden text, credential reads, persistence | 🟡 | 🆓 | [GitHub](https://github.com/Frank-Masciopinto/ironheights) |
+
+### Agent Runtime Controls
+
+| Name | Description | Maturity | Pricing | Link |
+|------|-------------|----------|---------|------|
+| [HOL Guard](https://hol.org/guard) | Local policy checks and approvals for coding-agent tool actions; host integration and coverage vary. | 🟡 | 🆓 | [GitHub](https://github.com/hashgraph-online/hol-guard) |
 
 ### MCP Security
 
