@@ -241,6 +241,7 @@ Enterprise-grade platforms for teams that need managed LLM security at scale.
 | [HiddenLayer](https://hiddenlayer.com/) | AI security platform for model protection and threat detection | 🟢 | 💰 | [Website](https://hiddenlayer.com/) |
 | [Lakera](https://www.lakera.ai/) | Real-time AI security API with prompt injection firewall | 🟢 | 💰 | [Website](https://www.lakera.ai/) |
 | [Lasso Security](https://www.lasso.security/) | LLM security for enterprise with data leakage prevention | 🟢 | 💰 | [Website](https://www.lasso.security/) |
+| [Prediction Guard](https://predictionguard.com/) | Self-hosted control plane for AI agents: identity, inline controls on model and MCP calls, quarantine | 🟢 | 💰 | [Website](https://predictionguard.com/) |
 | [Prompt Security](https://www.prompt.security/) | GenAI security platform protecting inputs, outputs, and model access | 🟢 | 💰 | [Website](https://www.prompt.security/) |
 | [Robust Intelligence](https://www.robustintelligence.com/) | AI firewall and continuous validation for production models | 🟢 | 💰 | [Website](https://www.robustintelligence.com/) |
 
