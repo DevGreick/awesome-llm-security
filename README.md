@@ -243,6 +243,7 @@ Enterprise-grade platforms for teams that need managed LLM security at scale.
 | [Lasso Security](https://www.lasso.security/) | LLM security for enterprise with data leakage prevention | 🟢 | 💰 | [Website](https://www.lasso.security/) |
 | [Prompt Security](https://www.prompt.security/) | GenAI security platform protecting inputs, outputs, and model access | 🟢 | 💰 | [Website](https://www.prompt.security/) |
 | [Robust Intelligence](https://www.robustintelligence.com/) | AI firewall and continuous validation for production models | 🟢 | 💰 | [Website](https://www.robustintelligence.com/) |
+| [Standard Compute](https://standardcompute.com/security) | LLM gateway enforcing provider allow-lists, a Europe region rule and zero data retention per company, team or key | 🟡 | 💰 | [Website](https://standardcompute.com/security) |
 
 ---
 
