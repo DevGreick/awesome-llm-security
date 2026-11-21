@@ -119,6 +119,7 @@ Looking for research papers and academic resources? See [corca-ai/awesome-llm-se
 |------|-------------|----------|---------|------|
 | [APort Agent Guardrails](https://aport.io) | Pre-action authorization guardrails for AI agents and MCP/tool-use workflows | 🟡 | 💎 | [GitHub](https://github.com/aporthq/aport-agent-guardrails) |
 | [LLM Guard](https://protectai.com/llm-guard) | 35 scanners for prompt injection, PII, toxicity, and secrets | 🟢 | 🆓 | [GitHub](https://github.com/protectai/llm-guard) |
+| [PromptGuard API](https://sinescribe.github.io/promptguard-api/) | FastAPI service & Python stdlib regex/delimiter filter with optional AST call-denylist for AI agent prompts | 🔴 | 💎 | [GitHub](https://github.com/sinescribe/promptguard-api) |
 | [Rebuff](https://github.com/protectai/rebuff) | Self-hardening prompt injection detector with canary tokens | 🟡 | 🆓 | [GitHub](https://github.com/protectai/rebuff) |
 | [TrustGate](https://github.com/trustgate-ai/trustgate) | Generative Application Firewall (GAF) for GenAI apps | 🟡 | 🆓 | [GitHub](https://github.com/trustgate-ai/trustgate) |
 | [Vigil](https://github.com/deadbits/vigil-llm) | Detect prompt injections and jailbreaks via heuristics + YARA | 🟡 | 🆓 | [GitHub](https://github.com/deadbits/vigil-llm) |
