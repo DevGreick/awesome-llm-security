@@ -154,6 +154,7 @@ Looking for research papers and academic resources? See [corca-ai/awesome-llm-se
 
 | Name | Description | Maturity | Pricing | Link |
 |------|-------------|----------|---------|------|
+| [Arcjet](https://arcjet.com) | Security SDK that detects prompt injection and sensitive data in agent tool calls and MCP handlers | 🟢 | 💎 | [GitHub](https://github.com/arcjet/arcjet-js) |
 | [mcp-gatehouse](https://nickgeorgeai.com/open-source/mcp-gatehouse) | Permission tiers, approval gates and redacting audit log enforced inside Python MCP servers | 🟡 | 🆓 | [GitHub](https://github.com/nickgeorgeseo/mcp-gatehouse) |
 | [MCP Guardian](https://github.com/eqtylab/mcp-guardian) | Access control and activity monitoring for MCP servers | 🟡 | 🆓 | [GitHub](https://github.com/eqtylab/mcp-guardian) |
 | [MCP Security Checklist](https://github.com/slowmist/MCP-Security-Checklist) | SlowMist's comprehensive checklist for MCP ecosystem | 🟢 | 🆓 | [GitHub](https://github.com/slowmist/MCP-Security-Checklist) |
