@@ -167,6 +167,7 @@ Looking for research papers and academic resources? See [corca-ai/awesome-llm-se
 |------|-------------|----------|---------|------|
 | [E2B](https://e2b.dev/) | Sandboxed cloud environments for AI agents and code execution | 🟢 | 💎 | [GitHub](https://github.com/e2b-dev/e2b) |
 | [KubeStellar Console](https://github.com/kubestellar/console) | Multi-cluster Kubernetes dashboard with Kyverno policy enforcement, RBAC visualization, supply chain security, and AI/LLM workload access controls. CNCF Sandbox project | 🟡 | 🆓 | [GitHub](https://github.com/kubestellar/console) |
+| [Sandscale](https://sandscale.dev/) | Firecracker microVM sandboxes for AI agents with Claude Code tool calls allowed, blocked or sent for approval through its hooks, DLP and an audit log | 🟡 | 💎 | [GitHub](https://github.com/sandscale) |
 | [ShellWard](https://github.com/jnMetaCode/shellward) | AI Agent Security Middleware with 8-layer defense, zero deps | 🟡 | 🆓 | [GitHub](https://github.com/jnMetaCode/shellward) |
 
 ---
